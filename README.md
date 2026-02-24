@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adahan%20Görgün&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Yazılım%20Geliştirici&descAlignY=55&descAlign=50" width="100%" alt="Header Image" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adahan%20Görgün&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=55&descAlign=50" width="100%" alt="Header Image" />
 </div>
 
-<h1 align="center">Merhaba 👋, Ben Adahan Görgün</h1>
-<h3 align="center">Tekirdağ'dan tutkulu bir yazılım geliştiricisi</h3>
+<h1 align="center">Hi there 👋, I'm Adahan Görgün</h1>
+<h3 align="center">A passionate software developer from Tekirdağ, Turkey</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/adahangorgun" target="_blank">
@@ -13,7 +13,7 @@
 
 <br/>
 
-<h2 align="center">🛠️ Diller ve Araçlar</h2>
+<h2 align="center">🛠️ Languages and Tools</h2>
 
 <div align="center">
   <p>
@@ -43,7 +43,7 @@
 
 <br/>
 
-<h2 align="center">🐍 GitHub Katkı Yılanı</h2>
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <div align="center">
   <picture>
