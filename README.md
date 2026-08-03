@@ -31,19 +31,19 @@
 
 </div>
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
+<!-- ===== CONTRIBUTION HEATMAP ===== -->
+<!-- animated contribution graph: real data, boxes reveal cell by cell,
+     left-to-right (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdahanGorgun/AdahanGorgun/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdahanGorgun/AdahanGorgun/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/AdahanGorgun/AdahanGorgun/output/snake-light.svg" />
-</picture>
+<h3><code>adahan@github ~ $ ./contributions.sh</code></h3>
+
+<img width="860" src="https://raw.githubusercontent.com/AdahanGorgun/AdahanGorgun/main/contrib-heatmap.svg" alt="Adahan's GitHub contribution graph — auto-refreshed daily" />
 
 </div>
 
-<!-- ===== END SNAKE ===== -->
+<!-- ===== END CONTRIBUTION HEATMAP ===== -->
 <br/>
 <br/>
 <!-- Projects panel is auto-generated from projects.json by .github/workflows/projects.yml.
