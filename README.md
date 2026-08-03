@@ -43,15 +43,20 @@
 
 </div>
 
-<!-- ===== ABOUT ===== -->
+<!-- ===== END CONTRIBUTION HEATMAP ===== -->
+
+<!-- ===== ABOUT / SYSTEM.INFO ===== -->
 <div align="center">
 
-**Adahan Görgün** · Software Developer
-Building + Learning + Shipping
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdahanGorgun/AdahanGorgun/main/info-panel-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdahanGorgun/AdahanGorgun/main/info-panel-light.svg">
+  <img width="860" alt="Adahan Görgün — system info" src="https://raw.githubusercontent.com/AdahanGorgun/AdahanGorgun/main/info-panel-light.svg">
+</picture>
 
 </div>
 
-<!-- ===== END CONTRIBUTION HEATMAP ===== -->
+<!-- ===== END ABOUT ===== -->
 <br/>
 <br/>
 <!-- Projects panel is auto-generated from projects.json by .github/workflows/projects.yml.
