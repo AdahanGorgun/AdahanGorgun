@@ -7,14 +7,6 @@
   <img alt="Adahan Görgün" src="https://raw.githubusercontent.com/AdahanGorgun/AdahanGorgun/main/light.svg">
 </picture>
 
-<!-- ===== ABOUT ===== -->
-<div align="center">
-
-**Adahan Görgün** · Software Developer
-Building + Learning + Shipping
-
-</div>
-
 <!-- ===== GITHUB STATS ===== -->
 
 <div align="center">
@@ -48,6 +40,14 @@ Building + Learning + Shipping
 <h3><code>adahan@github ~ $ ./contributions.sh</code></h3>
 
 <img width="860" src="https://raw.githubusercontent.com/AdahanGorgun/AdahanGorgun/main/contrib-heatmap.svg" alt="Adahan's GitHub contribution graph — auto-refreshed daily" />
+
+</div>
+
+<!-- ===== ABOUT ===== -->
+<div align="center">
+
+**Adahan Görgün** · Software Developer
+Building + Learning + Shipping
 
 </div>
 
