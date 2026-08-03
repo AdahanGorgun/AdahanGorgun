@@ -1,0 +1,9 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+Pillow==12.1.1
+numpy==1.26.4
+
+# only needed for scripts/prep_photo.py (one-time portrait prep, not run in CI)
+opencv-python-headless
+rembg
+onnxruntime
