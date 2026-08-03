@@ -45,7 +45,7 @@ CELL_H = 15.5
 # and the pointed apex on the A gives the extrusion an edge to wrap around. a
 # very heavy face (Impact) collapses to blobs at this resolution -- the counters
 # get thinner than one grid cell.
-FONT_PATH = os.environ.get("WORDMARK_FONT", r"C:\Windows\Fonts\GOTHICB.TTF")
+FONT_PATH = os.environ.get("WORDMARK_FONT", r"C:\Windows\Fonts\GOTHIC.TTF")
 FONT_INDEX = int(os.environ.get("WORDMARK_FONT_INDEX", 0))   # face within a .ttc
 # three letters across the full width leaves ~30 grid columns each, which is what
 # lets the cells be big enough to read as characters rather than as dither.

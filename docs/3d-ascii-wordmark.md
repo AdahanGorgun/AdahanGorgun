@@ -113,8 +113,11 @@ solid and dense while walls fall away dimmer. That contrast gap is the 3D read.
 **Futura Bold (or a lookalike).** Even stroke weight shades consistently across a
 letter, and the pointed apex on the A gives the extrusion an edge to wrap around.
 Very heavy faces (Impact) have counters that shrink below one grid cell and
-disappear, so letters become blobs with notches. On Windows, Century Gothic Bold
-(`GOTHICB.TTF`) is a close geometric-sans substitute for Futura.
+disappear, so letters become blobs with notches. On Windows, Century Gothic
+(`GOTHIC.TTF`) is a close geometric-sans substitute for Futura -- the *regular*
+weight, not `GOTHICB.TTF` (bold): at this coarse a character grid, the bold
+weight's thicker crossbar on the A closes its counter almost entirely across
+the few rows available, so the hole reads as solid rather than open.
 
 ## Regenerating
 
@@ -132,7 +135,7 @@ Modes: `rock` (gentle oscillation, in use), `once` (one full turn then freeze),
 | Env var | Default | Purpose |
 | --- | --- | --- |
 | `WORDMARK_TEXT` | `ADA` | `\n` splits lines |
-| `WORDMARK_FONT` | `C:\Windows\Fonts\GOTHICB.TTF` | any TTF/TTC |
+| `WORDMARK_FONT` | `C:\Windows\Fonts\GOTHIC.TTF` | any TTF/TTC |
 | `WORDMARK_FONT_INDEX` | `0` | face within a `.ttc` |
 | `WORDMARK_TILT` | `4.0` | X tilt, degrees |
 | `WORDMARK_COLS` | `50` | grid width; panel is `COLS × 9 + 36` px |
