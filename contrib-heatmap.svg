@@ -2,10 +2,10 @@
 <style>
   text.lbl { fill:#7d8590; font-size:13px; font-weight:600; }
   text.total { fill:#e6edf3; font-size:15px; font-weight:700; }
-  .c { transform-box:fill-box; transform-origin:center; opacity:0; animation:pop 7.15s ease-out infinite; }
-  .g { animation:pop 7.15s ease-out infinite, flash 7.15s ease-out infinite; }
-  @keyframes pop { 0%{opacity:0;transform:scale(.2)} 4.6154%{opacity:1;transform:scale(1.1)} 7.6923%,99%{opacity:1;transform:scale(1)} 100%{opacity:0;transform:scale(.2)} }
-  @keyframes flash { 0%{filter:brightness(2.4)} 4.4056%{filter:brightness(2.4)} 9.7902%,100%{filter:brightness(1)} }
+  .c { transform-box:fill-box; transform-origin:center; opacity:0; animation:pop 5.15s ease-out infinite; }
+  .g { animation:pop 5.15s ease-out infinite, flash 5.15s ease-out infinite; }
+  @keyframes pop { 0%{opacity:0;transform:scale(.2)} 6.4078%{opacity:1;transform:scale(1.1)} 10.6796%,99%{opacity:1;transform:scale(1)} 100%{opacity:0;transform:scale(.2)} }
+  @keyframes flash { 0%{filter:brightness(2.4)} 6.1165%{filter:brightness(2.4)} 13.5922%,100%{filter:brightness(1)} }
   @media (prefers-reduced-motion: reduce) { .c { opacity:1 !important; animation:none !important; } }
 </style>
 <rect width="888" height="158" fill="none"/>
