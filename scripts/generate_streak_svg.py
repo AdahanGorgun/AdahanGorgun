@@ -39,7 +39,7 @@ H = TOP + 7*(CELL+GAP) + 22
 
 # timing (seconds)
 REVEAL, DUR = 3.6, 0.55
-PAUSE = 6.0           # idle time after a full reveal before it plays again
+PAUSE = 3.0           # idle time after a full reveal before it plays again
 CYCLE = REVEAL + DUR + PAUSE
 maxorder = (NW-1) + 6*0.55
 
