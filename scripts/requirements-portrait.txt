@@ -1,4 +1,0 @@
-# only needed for scripts/prep_photo.py (one-time portrait re-render, not run in CI)
-opencv-python-headless
-rembg
-onnxruntime
