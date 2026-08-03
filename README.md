@@ -1,10 +1,6 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
-<div align="center">
-<img src="./profile.png" width="160" alt="Adahan Görgün" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdahanGorgun/AdahanGorgun/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdahanGorgun/AdahanGorgun/main/light.svg">
