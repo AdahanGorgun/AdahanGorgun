@@ -7,6 +7,14 @@
   <img alt="Adahan Görgün" src="https://raw.githubusercontent.com/AdahanGorgun/AdahanGorgun/main/light.svg">
 </picture>
 
+<!-- ===== ABOUT ===== -->
+<div align="center">
+
+**Adahan Görgün** · Software Developer
+Building + Learning + Shipping
+
+</div>
+
 <!-- ===== GITHUB STATS ===== -->
 
 <div align="center">
