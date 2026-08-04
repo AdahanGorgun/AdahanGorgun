@@ -57,6 +57,17 @@
 </div>
 
 <!-- ===== END ABOUT ===== -->
+
+<!-- ===== TECH STACK ===== -->
+<div align="center">
+
+<h3><code>adahan@github ~ $ ./techstack.sh</code></h3>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,js,html,css,flutter,kotlin,mysql,git" alt="C, C++, C#, .NET, Java, JavaScript, HTML, CSS, Flutter, Kotlin, SQL, Git" />
+
+</div>
+
+<!-- ===== END TECH STACK ===== -->
 <br/>
 <br/>
 <!-- Projects panel is auto-generated from projects.json by .github/workflows/projects.yml.
