@@ -1,22 +1,22 @@
 {
   "username": "AdahanGorgun",
-  "generated_at": "2026-08-24T07:31:50Z",
+  "generated_at": "2026-08-25T07:12:07Z",
   "range": {
     "start": "2025-08-24",
+    "end": "2026-08-25"
+  },
+  "total_contributions": 63,
+  "active_days": 27,
+  "avg_per_active_day": 2.3,
+  "current_streak": {
+    "length": 22,
+    "start": "2026-08-03",
     "end": "2026-08-24"
   },
-  "total_contributions": 62,
-  "active_days": 26,
-  "avg_per_active_day": 2.4,
-  "current_streak": {
-    "length": 21,
-    "start": "2026-08-03",
-    "end": "2026-08-23"
-  },
   "longest_streak": {
-    "length": 21,
+    "length": 22,
     "start": "2026-08-03",
-    "end": "2026-08-23"
+    "end": "2026-08-24"
   },
   "best_day": {
     "date": "2026-08-03",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 47
+      "total": 48
     }
   ],
   "days": [
@@ -1539,6 +1539,10 @@
     },
     {
       "date": "2026-08-24",
+      "count": 1
+    },
+    {
+      "date": "2026-08-25",
       "count": 0
     }
   ]
